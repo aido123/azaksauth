@@ -18,7 +18,7 @@ azaksauth --tenant "9b411214-6cd9-4672-9034-b55bf7d44b12" --username "clusteruse
 
 1. Install the pip module into your python library.
 
-   pip3 install azaksauth/
+   pip install azaksauth/
 
 2. Export your PATH env to pick up the alias wiki when running the python module form your machine
 
