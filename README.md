@@ -20,7 +20,7 @@ azaksauth --tenant "9b411214-6cd9-4672-9034-b55bf7d44b12" --username "clusteruse
 
    pip install azaksauth/
 
-2. Export your PATH env to pick up the alias wiki when running the python module form your machine
+2. Export your PATH env to pick up the alias azaksauth when running the python module form your machine
 
    export PATH=~/.local/bin:$PATH
 
@@ -30,7 +30,7 @@ azaksauth --tenant "9b411214-6cd9-4672-9034-b55bf7d44b12" --username "clusteruse
 
 OR
 
-1. Run the python module command. Navigate into wordfrequency and Run.
+1. Run the python module command. Navigate into azaksauth and Run.
 
    python -m azaksauth.main --tenant "9b411214-6cd9-4672-9034-b55bf7d44b12" --username "clusteruser@mytenant.onmicrosoft.com" --password "hard2Guess" --subscription "a1234b5c-1234-5678-abcd-1234abcded12" --resource-group "adrian-group" --cluster-name "adriancluster"
 
