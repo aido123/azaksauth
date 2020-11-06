@@ -1,0 +1,6 @@
+adal==1.2.5
+msrestazure==0.6.4
+azure-mgmt-containerservice==9.4.0
+pyyaml==5.3.1
+argparse==1.4.0
+azure-cli==2.14.1
