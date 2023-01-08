@@ -4,7 +4,7 @@ metadata:
   name: azaksauth
   annotations:
     github.com/project-slug: aido123/azaksauth
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
